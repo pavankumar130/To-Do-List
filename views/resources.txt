@@ -7,7 +7,7 @@ first install
         mongoose
         nodemon
 
-after for make first letter capital use lodash 
+To make first letter capital use lodash 
 // https://lodash.com/docs/4.17.15#capitalize
 
 ejs documentation
