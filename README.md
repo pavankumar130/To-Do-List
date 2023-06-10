@@ -3,6 +3,8 @@
 ## first install 
    ### npm install body-parser ejs express lodash mongoose nodemon
    
+## Skills Used 
+  HTML, CSS, Java Script, Node Js, Express Js, EJS
 # references
 To make first letter capital use lodash 
 // https://lodash.com/docs/4.17.15#capitalize
